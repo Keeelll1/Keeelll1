@@ -21,7 +21,5 @@ ___
 
 ### My activity✔️: 
 
-<img src="https://komarev.com/ghpvc/?  username=your-github-Keeelll1&style=flat-square&color=blue" alt=""/>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keeelll1)](https://github.com/Keeelll1/github-readme-stats) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keeelll1)](https://git.io/streak-stats)
